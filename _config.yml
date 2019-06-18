@@ -4,7 +4,7 @@ email: jpgallagher@gmail.com
 description: "A bit of data always piques my curiosity.  After a few questions and some hard work, I love the learning."
 baseurl: "/blog"
 url: "https://jpgallagher.github.io/"
-title_description: "I'm currently migrating my blog from wordpress.  You can see the older blog here: dexplorer.data.blog"
+title_description: "I'm currently migrating my blog from wordpress.  You can see the older blog here: <a href="http://dexplorer.data.blog">dexplorer.data.blog</a>"
 title_image: "https://secure.gravatar.com/avatar/01b9b2ca300bdd68f4742191682fd05b?s=500&d=mm"
 #google_analytics: "UA-20365477-4"
 disqus_account: 
@@ -18,8 +18,7 @@ github_username:  jpgallagher1
 instagram_username: 
 reddit_username: 
 linkedin_link: https://www.linkedin.com/in/john-gallagher-7348b163/
-# google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-# stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+
 xing_link:
 facebook_link:
 
