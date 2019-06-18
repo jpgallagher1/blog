@@ -1,0 +1,38 @@
+# Site settings
+title: "Data Exploration"
+email: jpgallagher@gmail.com
+description: "A bit of data always piques my curiosity.  After a few questions and some hard work, I love the learning."
+baseurl: "/blog"
+url: "https://jpgallagher.github.io/"
+title_description: "I'm currently migrating my blog from wordpress.  You can see the older blog here: dexplorer.data.blog"
+title_image: "https://secure.gravatar.com/avatar/01b9b2ca300bdd68f4742191682fd05b?s=500&d=mm"
+#google_analytics: "UA-20365477-4"
+disqus_account: 
+github_repository: https://github.com/jpgallagher10/blog
+addthis_id: 
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: JohnPGallagher7
+github_username:  jpgallagher1
+instagram_username: 
+reddit_username: 
+linkedin_link: https://www.linkedin.com/in/john-gallagher-7348b163/
+# google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+# stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://jpgallagher1.github.io\">John Gallagher</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jpgallagher1/blog\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
