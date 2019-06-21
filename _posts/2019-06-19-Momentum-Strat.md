@@ -23,12 +23,12 @@ tags:
 
 Incorporating multiple strategies and factors into your portfolio helps diversify against concentrated risks.  In this post we will build a simple momentum strategy from scratch and show the diversification benefits.  
 
-![Lower Volatility Portfolio Returns](_img/Blended vs Benchmar Rolling Returns.png)
+![Lower Volatility Portfolio Returns](img\BlendedvsBenchmar_Rolling_Returns.png)
 
 ## The Momentum Risk Premium
 
 Within investing, a security's return can be modeled as a function of several different parameters.  For example, using capital asset pricing model: 
-$E[R_i] = R_{free} + \beta_i(R_{market} - R_{free})$
+$$E[R_i] = R_{free} + \beta_i(R_{market} - R_{free})$$
 
 Where $E[R_i]$ is the expected return of asset $i$.  The total return is the sum of the risk free rate of return, $R_{free}$, and the asset's relationship to the market return, $\beta_i(E[R_{market}]-R_{free})$.  One of the major limitations of this model, is the simplicity.  This model ignores many other possible factors that could affect an assets price, for example momentum. 
 
@@ -53,11 +53,11 @@ We can see here that the strategy offers diversification benefits.  It performs 
 - Port, The Momentum strategy by itself
 - 50/50, SPY and the momentum strategy blended 50%/50%, rebalanced daily.  
 
-!(A Comparison of Historical Performance)[img\Pure and Blended Strategy vs Benchmarks.png]
+![A Comparison of Historical Performance](img\Pure_and_Blended_StrategyvsBenchmarks.png)
 
 Below we can see the volatility of the portfolio is significantly reduced.  
 
-!(Rolling Volatility Comparison)[img\Blended vs Benchmark Rolling Volatiltiy.png]
+![Rolling Volatility Comparison](img\BlendedvsBenchmark_Rolling_Volatiltiy.png)
 
 
 Lastly in this table, we find that the portfolio does offer significant risk reduction benefits, reducing the overall volatility of the portfolio by nearly half of the S&P500's annualized volatility over the last 5 years.  13% compared to 7.3%   It is also significantly less than the IShares US Financial Services ETF. 18% compared to 7.3%
@@ -72,7 +72,9 @@ Lastly in this table, we find that the portfolio does offer significant risk red
 The blended strategy spends significantly less time underwater than the S&P 500.  In this chart, we can see how much shallower the draw-downs are.  
 
 Benchmark Drawdown Chart (SPY)
-!(Benchmark Drawdown)[img\Benchmark Drawdowns.png]
+
+![Benchmark Drawdown](img\Benchmark_Drawdowns.png)
 
 Blended Portfolio Drawdown Chart
-!(Blended Portfolio Drawdown Chart)[_img\Blended Drawdowns.png]
+
+![Blended Portfolio Drawdown Chart](img\Blended_Drawdowns.png)
