@@ -4,9 +4,7 @@ email: jpgallagher@gmail.com
 description: "A bit of data always piques my curiosity.  After a few questions and some hard work, I love the learning."
 baseurl: "/blog"
 url: "https://jpgallagher.github.io/"
-title_description: "Expert at communicating clear ideas that are supported by data.  I have experience in machine learning models, time series analysis, and presentation ready visuals.  I started in quantitative finance, and have broadened my skills into general software development and data science.  
-
-I enjoy exploratory data analysis, and helping clients learn more from their data.   "
+title_description: "Expert at communicating clear ideas that are supported by data.  I have experience in machine learning models, time series analysis, and presentation ready visuals.  I started in quantitative finance, and have broadened my skills into general software development and data science."
 title_image: "https://secure.gravatar.com/avatar/01b9b2ca300bdd68f4742191682fd05b?s=500&d=mm"
 #google_analytics: "UA-20365477-4"
 disqus_account: 
