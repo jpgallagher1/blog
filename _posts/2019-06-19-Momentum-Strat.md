@@ -4,7 +4,7 @@ title:      Momentum Trading Strategy
 date:       2019-06-19 14:19:56
 author:     John Gallagher
 summary:    In this post we will build a momentum strategy from scratch and show the diversification benefits. 
-categories: jekyll
+categories: Quant Finance
 thumbnail:  star
 tags:
  - Quant
